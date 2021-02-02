@@ -7,7 +7,7 @@
 <div align="center">
 
 [![website](https://img.shields.io/badge/contribution-Shloka%20Jain-green.svg)](http://shlokatech.in)
-[![language](https://img.shields.io/badge/language-Node%20Js-orange.svg)](http://shlokatech.in)
+[![language](https://img.shields.io/badge/language-React%20Js-orange.svg)](http://shlokatech.in)
 
 </div>
 
